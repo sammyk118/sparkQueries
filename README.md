@@ -15,5 +15,9 @@ To run this yourself:
 * Install the scala plugin on IntelliJ
 * Install [winutils](https://medium.com/big-data-engineering/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3). Install where you want, but my code assumes it's installed at `C:\\winutils`
 
-
+## Usage
+* Compiling and runnign p1query will execute all of the queries. Your output will look something like this, which finds all the shared drinks between branch 4 and 7
 ![image](https://user-images.githubusercontent.com/58571104/130814834-ea8ad0f8-f2bd-4596-abb2-9be19d405f9b.png)
+
+## License
+This project uses the MIT License
