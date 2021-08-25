@@ -17,6 +17,7 @@ To run this yourself:
 
 ## Usage
 * Compiling and runnign p1query will execute all of the queries. Your output will look something like this, which finds all the shared drinks between branch 4 and 7
+* 
 ![image](https://user-images.githubusercontent.com/58571104/130814834-ea8ad0f8-f2bd-4596-abb2-9be19d405f9b.png)
 
 ## License
