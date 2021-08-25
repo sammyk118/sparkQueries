@@ -11,6 +11,6 @@ This program uses scala, spark, and a hive database to run queries and find mean
 ## Getting Started
 This was run on Windows, using IntelliJ.
 To run this yourself:
-* make sure java 8 is installed on your machine
-* install the scala plugin on IntelliJ
-* install [winutils](https://medium.com/big-data-engineering/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3). Install where you want, but my code assumes it's installed at `C:\\winutils` 
+* Make sure java 8 is installed on your machine
+* Install the scala plugin on IntelliJ
+* Install [winutils](https://medium.com/big-data-engineering/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3). Install where you want, but my code assumes it's installed at `C:\\winutils`
