@@ -14,3 +14,6 @@ To run this yourself:
 * Make sure java 8 is installed on your machine
 * Install the scala plugin on IntelliJ
 * Install [winutils](https://medium.com/big-data-engineering/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3). Install where you want, but my code assumes it's installed at `C:\\winutils`
+
+
+![image](https://user-images.githubusercontent.com/58571104/130814834-ea8ad0f8-f2bd-4596-abb2-9be19d405f9b.png)
